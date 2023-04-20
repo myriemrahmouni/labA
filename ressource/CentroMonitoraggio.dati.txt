@@ -1,0 +1,4 @@
+ Centro: ki ,Address:  ,hk ,1 ,147 ,lkh ,lkj ,Elenco aree di interesse di cui l'operatore intende inserire i parametri climatici ,Stato: italia ,Den. Ufficiale: it ,Long: 1478 ,Lat: 4568
+ Centro: fde ,Indirizzo:  ,jh ,4 ,154 ,lkh ,lkh ,Elenco aree:  ,Stato: lkj ,Den. Ufficiale: oi ,Long: 1234 ,Lat: 1475
+ Centro: jhg ,Indirizzo:  ,vbzha ,14 ,1254 ,lk ,kj ,Elenco aree:  ,Stato: vhn ,Den. Ufficiale: lk ,Long: 12547 ,Lat: 1254
+ Centro: lkjhgfdf ,Indirizzo:  ,jhgfvcx ,14 ,85 ,uij ,kjhgf ,Elenco aree:  ,Stato: hnb ,Den. Ufficiale: lkjh ,Long: 5522 ,Lat: 4512
